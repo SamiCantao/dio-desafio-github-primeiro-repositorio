@@ -10,7 +10,7 @@
 
 ## 🚨Sobre o desafio
 > Trata-se da criação do primeiro repositório no GitHub para compartilhar meu progresso. 
-> Este repositório foi criado para fins de colocar em pratica o conhecimento adquerido no curso da <a href="https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/?back=/browse"><i>DIO.</i></a>
+> Este repositório foi criado para fins de colocar em pratica o conhecimento adquirido no curso da <a href="https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/?back=/browse"><i>DIO.</i></a>
 
 ## 👨‍🏫Link do programa
 - [ GFT Start Woman Java ](https://www.dio.me/bootcamp/gft-start-woman-java?ref=CG&utm_source=descricao-yt-bc-gft-start-woman-java&utm_medium=organic&utm_campaign=gft)
