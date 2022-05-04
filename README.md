@@ -14,7 +14,7 @@
 ## 👨‍🏫Link do programa
 - [ GFT Start Woman Java ](https://www.dio.me/bootcamp/gft-start-woman-java?ref=CG&utm_source=descricao-yt-bc-gft-start-woman-java&utm_medium=organic&utm_campaign=gft)
 
-## 📱Contato
+## 📱Meu contato
 [ <img src = "https://img.icons8.com/glyph-neue/344/github.png" width="50" height="50"> ](https://github.com/SamiCantao)
 [ <img src = "https://img.icons8.com/color/344/linkedin-circled--v1.png" width="50" height="50"> ](https://www.linkedin.com/in/samiracantao/)
 [ <img src = "https://img.icons8.com/color/344/whatsapp--v1.png" width="50" height="50"> ](https://api.whatsapp.com/send?phone=5591980628052)
